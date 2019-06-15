@@ -1,7 +1,7 @@
 
 # Digital Botany; The future of Green Living
 
-Go to this [link](https://guides.github.com/features/mastering-markdown/) for help
+Go to this [link](https://guides.github.com/features/mastering-markdown/) for help with bold, italics, and more
 
 ![Image Description](Images/image1.jpg)
 
@@ -54,8 +54,7 @@ Image 1
 ![img4](Images/image4.png)
 
 Furthermore, some holograms that are currently on the market can be programed to change when touched. Touches are registered using a camera positioned underneath the hologram, and the information is subsequently relayed back to a computer which changes the holographic image.
-You can see some of the incredible applications of this technology here:
-https://www.youtube.com/watch?v=AoWi10YVmfE&feature=youtu.be
+You can see some of the incredible applications of this technology [here](https://www.youtube.com/watch?v=AoWi10YVmfE&feature=youtu.be):
 
 Applications for holograms have been limited by cumbersome techniques, high computation requirements, and poor image quality. Glass technology as shown in the following video could lead to a wide variety of applications, including viewing 3D plants without the need for glasses. Glass technology techniques just like the contemporary holographic techniques also find their niche in home design and commercial sales and marketingwatching holographic videos on television and smart phone screens (See images 3 & 4). As described by famous 
 Future of Glass Video
@@ -73,6 +72,7 @@ As opposed to Augmented Reality, users of virtual reality no longer perceive the
 
 Moreover, the company Snap has found a new niche in its Snapchat augmented reality offerings for brands by merging traditional and digital advertising tactics in an immersive experience.by merging traditional and digital advertising tactics in an immersive experience. The company recently demonstrated how brands could leverage the approach with an AR billboard
 Augmented reality has already become a popular technology for the NBA and its teams. Thinking of how that combined with other technologies be applied. That’s next level exciting.
+
 ![gif3](Images/issagif3.gif) ![gif4](Images/issagif4.gif)
 
 ## Glass technology
@@ -112,7 +112,7 @@ Formal Qualities (200-300 words)
 
 Image 2
 
-![img9](Images/image9.jpg)
+![img9](Images/image9.png)
 
 How the advanced technology will be used will also define the typographic hierarchy. For example, when holographic technology or advance reality use the projection of a plant image for the basic purposes of substituting a real plant in someone’s home (See image 2), it would be defined as a level one, which only shows the basic such as the image. In this case, most of the attention would be focused on the realistic shape and size of the design to ensure integrity to the original text as much as possible. 
 In contrast the use of holographic in advance technology for the purpose of marketing (See image 6) may require a more in-depth typography hierarchy. For example, a three level typography hierarchy would include the product name (pink blazer) as a level one; the price will be level two, and to complete the product description will be recognized as the level three.
@@ -128,7 +128,7 @@ In contrast the use of holographic in advance technology for the purpose of mark
 
 Image 5                                                     Image 6
 
-![img10](Images/image10.jpg) ![img11](Images/image11.jpg)
+![img10](Images/image10.png) ![img11](Images/image11.jpg)
 
 One of the oldest (and most important) theories about persuasion was formulated by the ancient Greek philosopher Aristotle, who lived and worked from 384 to 322 BC. 
 Rhetoric as defined by Aristotle is a mean of “human communication that is designed to influence or change a person’s (or a group’s) beliefs, attitudes, intentions, motivations, or behaviors.” In a public presentation, persuasion often boils down to the ability of the speaker to appeal to his audience. 
