@@ -1,13 +1,12 @@
 
 # Digital Botany; The future of Green Living
 
-Go to this [link](https://guides.github.com/features/mastering-markdown/) for help with bold, italics, and more
 
 ![Image Description](Images/image1.jpg)
 
 The image you see above is a regular living room decorated with plants. Interior plants are an ideal way to create attractive and restful settings. While making us feel more comfortable and relaxed, they also make a room look more alive. For some individuals, owning real plants isn’t possible — they’re either away too much to take care of them, they have allergies or the shadows of their home or dark apartment won’t allow the plants to survive. Very few plants will survive neglect but if you love decorating your home with plants, but are too busy to look after them, then  consider digital horticulture, which is an adapted concept of botanical. 
 As a blacked-thumbed botanical artist whose focus is on indoor botanical and practical designs, I went searching on how technology, like artificial plants can be involved in providing low maintenance botany that enhances our world at home and in the workplace. For my final project I will use real fresh plants as my artifact and I will further discuss how holographic techniques combined with modern augmented reality technology can incorporate plants and reinvent the botanical experience into something beautiful and practical. 
-## Why Digital Botany (150-250 words)
+## Why Digital Botany 
 When most of us are decorating our home or business, many of us take a few cues from hospitality professionals such as those who work in hotels, and spas. All over the world, the most desirable hotels, spas and resorts incorporate plants into their design because of the natural beauty these quiet, living greenery bring to any environment. Many busy high-end home owners might opt for a pricey designer in order to create real botanical art installations, which may also require them to hire a professional gardener to care for them. Meanwhile, some people have the knack for growing the most delicate plants, seemingly with no effort while other people like myself have a collection of empty pots stacked around their house as a testament to their failed attempts at nurturing greenery. 
 
 The Collins Dictionary describes Floriography (the language of flowers) as “a means of cryptological communication through the use or arrangement of flowers’’ [4]. According to studies, flowers have an immediate impact on happiness; have a long-term positive effect on moods and set the scene for people to make more intimate connections with others [7]. A well-selected flower arrangement will be appropriate at any momentous occasion - be it a formal event, a wedding, a funeral or as a gift to a loved one. Special occasions such as weddings, anniversaries and birthday parties look dull when women are not wearing accessories on such occasions (Jessup 1950). 
@@ -28,7 +27,7 @@ According to Guy Debor, in The Society of the Spectacle, passivity was simultane
 
 
 
-
+![Image Description]()
 https://vimeo.com/3870152?cjevent=4db2704c8c1b11e9823d00520a1c0e14
 ## History of hologram and augmented reality
 (Hologram vs Augmented Technology)
@@ -90,7 +89,7 @@ Image 4.
 
 
 
-The Adaptation (150-250 words)
+The Digital Botany Adaptation
 Before Adaptation (Fresh Plants)
 Before Adaptation
 
@@ -124,7 +123,7 @@ In contrast the use of holographic in advance technology for the purpose of mark
 
 
 
-## Rhetorical Significance (200-300 words)
+## Rhetorical Significance
 
 Image 5                                                     Image 6
 
