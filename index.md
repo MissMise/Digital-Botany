@@ -46,7 +46,7 @@ See full video “Daisy 2.0” here: https://vimeo.com/3870152?cjevent=4db2704c8
 See full video “Projections in the forest” here:
 https://vimeo.com/115082758
 
-## Holographic Reality History
+## Holographic Reality History (HR)
   The principle of holography was discovered by famous theorist Dennis Gabor in 1948. A hologram is a 3D image recorded on a two-dimensional photographic film allowing a 360° capture of the object. It is therefore a recording process for rendering a 2D image in 3D (See image 1). When we photograph an object in a conventional way, we record on a sensitive plate the brightness of the various points of the object. In other words, only the intensity of the light reflected by the object in question is taken into account. The hologram is, for its part, the result of the interference of two laser beams, one sent on a photographic plate, the other on the object to be holographed. It is from this interference that a 3D image is printed on the photographic plate. The object to holography, illuminated by a laser beam reflects the light part which arrives on the photographic film, the other part passes through a semi-reflective mirror and is used to produce the coveted 3D image.
 
 Image 1                                                            
@@ -64,18 +64,18 @@ Image 3
 
 ![img6](Images/image6.jpg)
 
-## Augmented Reality
-  Holograms can create realistic 3D images and place photos in your surroundings. It is also known as Augmented Reality - it is nothing but augmenting something into your own reality.
-Moreover, the company Snap has found a new niche in its Snapchat augmented reality offerings for brands by merging traditional and digital advertising tactics in an immersive experience.by merging traditional and digital advertising tactics in an immersive experience. The company recently demonstrated how brands could leverage the approach with an AR billboard
-Augmented reality has already become a popular technology for the NBA and its teams. Thinking of how that combined with other technologies be applied. That’s next level exciting.
+## Augmented Reality (AR)
+Holograms can create realistic 3D images and place photos in your surroundings. It is also known as Augmented Reality - it is nothing but augmenting something into your own reality.
+Moreover, the company Snap has found a new niche in its Snapchat augmented reality. It offers for brands to merge traditional and digital advertising tactics in an immersive experience.  The company recently demonstrated how brands could leverage the approach with an AR billboard
+Augmented reality has already become a popular technology for the NBA and its teams. When thinking of how that combined with other technologies be applied feels like next level exciting.
 
 ![gif3](Images/issagif3.gif) ![gif4](Images/issagif4.gif)
 
-## Virtual Reality
+## Virtual Reality (VR)
   As opposed to Augmented Reality, users of virtual reality no longer perceive their real environment. Virtual reality makes it possible to experience simple things such as 360-degree images, 360-degree videos – which everyone can also produce themselves – and complex applications such as virtual reality games or special virtual reality applications, e.g. for the automotive industry, medical technology, the tourism sector, or even innovative systems such as VR configurators.
 
 
-## Glass technology
+## Glass technology (GT)
   The future of how you interact with computers depends on a technology that's more than 3,000 years old. It's a technology you already use every day, on your smartphone, your TV, in your home, your car and most likely at work. It's even in the wires that bring you Internet service at near-light speed. 
 Is about transparent, holographic waveguide displays, glass technology that makes the images appear as if they're in the real world, so there's less distraction to look away. This is a technology that not only can be used in the care to display a GPS but that could be used on any window at home See image 4)
 
