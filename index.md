@@ -32,7 +32,7 @@ According to Guy Debor, in The Society of the Spectacle, passivity was simultane
 (Hologram vs Augmented Technology)
 Wikipedia describes the science of holography as follows: “Holography is a technique which enables three-dimensional images (holograms) to be made. 
 
-Video 1- Daisy 2.0                  Video 2- Projections in the forest
+Video 1- Daisy 2.0                                              Video 2- Projections in the forest
 In this version the flowers are uniquely generated.
 ![Gif2](Images/issagif2.gif)        ![Gif1](Images/issagif1.gif)
 
