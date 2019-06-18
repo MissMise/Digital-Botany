@@ -57,7 +57,9 @@ Applications for holograms have been limited by cumbersome techniques, high comp
 Future of Glass Video. see full video here: https://www.youtube.com/watch?v=jZkHpNnXLB0
 
 Image 3                                                                                   
-![img5](Images/image5.png) ![img6](Images/image6.jpg)
+![img5](Images/image5.png) 
+
+![img6](Images/image6.jpg)
 
 ## Augmented Reality
   Holograms can create realistic 3D images and place photos in your surroundings. It is also known as Augmented Reality - it is nothing but augmenting something into your own reality.
