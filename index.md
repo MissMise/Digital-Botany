@@ -118,13 +118,11 @@ In contrast the use of holographic in advance technology for the purpose of mark
 
 
 
-
-## Rhetorical Significance
-
 Image 5                                                     Image 6
 
 ![img10](Images/image10.png) ![img11](Images/image11.jpg)
 
+## Rhetorical Significance
 One of the oldest (and most important) theories about persuasion was formulated by the ancient Greek philosopher Aristotle, who lived and worked from 384 to 322 BC. 
 Rhetoric as defined by Aristotle is a mean of “human communication that is designed to influence or change a person’s (or a group’s) beliefs, attitudes, intentions, motivations, or behaviors.” In a public presentation, persuasion often boils down to the ability of the speaker to appeal to his audience. 
 
