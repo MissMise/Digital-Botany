@@ -185,8 +185,13 @@ Augmented reality is an ongoing project in the technology industry. I certainly 
 [2] 	Jessup, Ronald Frederick. 1950. Anglo-Saxon Jeweler. London: Faber and Faber.
 
 [3]	 “6 Reasons Why Floral Designers Are Awesome!” Flowerweb. Accessed February 12, 2019.https://www.flowerweb.com/en/article/195685/6%2520Reasons%2520Why%2520Floral%2520Designers%2520are%2520Awesome%2521
+
 [4]	https://www.instagram.com/parseerror/
+
 [5] “The Role of Emotions in Online Consumer Behavior: A Comparison of Search, Experience, and Credence Services | Request PDF.” ResearchGate. Accessed March 20, 2019. http://dx.doi.org/10.1108/08876041211266503.
+
 [6]  Distinction: A Social Critique of the Judgement of Taste, Bourdieu 1979/1984 p 66
+
 [7]  Distinction: A Social Critique of the Judgement of Taste, Bourdieu 1984 p 69
+
 [8] Gérard Berréby (ed.), Documents relatifs à la fondation de l’Internationale Situationniste: 1948-1957 p.55
