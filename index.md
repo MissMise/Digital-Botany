@@ -13,7 +13,7 @@ The Collins Dictionary describes Floriography (the language of flowers) as “a 
 
 Holograms are an example of a machine interacting with our environment by adding botanical information (output perspective).  Imagine being able to incorporate augmented reality, holograms and glass technology to this perspective!  I combine these technologies into a simple matrix. Digital botany offers the opportunity for a piece of Mother Earth to the benefit of both humans and green living. The following video shows the journey some French artists who are already working on a digital botany project that allows people to feel, listen to or even touch the product during an original sensory journey.
 
-According to Guy Debor, in The Society of the Spectacle, passivity was simultaneously the means and the end of a great hidden project, a project of social control. On the terms of its particular form of hegemony the spectacle naturally produced by spectators, not actors: modern men and women, citizens of the most advanced societies on earth, who were thrilled to watch whatever it was they were given to watch (The Society of the Spectacle, p. 99). Based on this statement should we find the theory of spectacle in many forms available to watch. In the following paragraphs, I will provide a brief description of holographic, augmented reality, virtual reality along with a few examples of how glass technology works.
+According to Guy Debor, in The Society of the Spectacle, passivity was "simultaneously the means and the end of a great hidden project, a project of social control. On the terms of its particular form of hegemony the spectacle naturally produced by spectators, not actors: modern men and women, citizens of the most advanced societies on earth, who were thrilled to watch whatever it was they were given to watch" (The Society of the Spectacle, p. 99). Based on this statement should we find the theory of spectacle in many forms available to watch. In the following paragraphs, I will provide a brief description of holographic, augmented reality, virtual reality along with a few examples of how glass technology works. These are good example that support Guy Debord's argument of "The Society of Spectacle" as it offers modern and succesful elements that are given in to our current society to watch. 
 
 
 
@@ -81,6 +81,10 @@ Image 4.
 ![img7](Images/image7.jpg)
 
 
+## My adaptation
+The creation of a digital access to botany will not only 
+
+Bourdieu theorizes that class fractions teach aesthetic preferences to their young. Class fractions are determined by a combination of the varying degrees of social, economic, and cultural capital. Society incorporates “symbolic goods, especially those regarded as the attributes of excellence, [...as] the ideal weapon in strategies of distinction.”[21] Those attributes deemed excellent are shaped by the interests of the dominating class. He emphasizes the dominance of cultural capital early on by stating that “differences in cultural capital mark the differences between the classes.”[22]
 
 
 
@@ -143,8 +147,7 @@ Just as with plastic plants, holographic botany would  look good and cost less t
  
 Roland Barthes (1977) writes that images do and don’t have a relationship to linguistic texts; imagery is a language, but it doesn’t work like linguistic language. I argue that in the case of plants that there’s a relationship between imagery and linguistic language. The Collins Dictionary describes Floriography (the language of flowers) as “a means of cryptological communication through the use or arrangement of flowers’’ [4]. According to studies, flowers have an immediate impact on happiness; have a long-term positive effect on moods and allow people to make connections that are more intimate [7]Floriography may not be as prevalent in society today as it used to be in the victorian era but still is used to communicate messages of emotions along with a certain wanted ambiance in someone’s home.
  
-In this section, I’m going to investigate the cultural implications of my adaptation. You might want to select a particular theorist that helps you interpret your own artifact and/or process (e.g. Foucault, Barthes, Bourdieu, Stuart Hall, De Certeau, or someone else). It’s really important that you engage with key words for the text/author you choose, define that term, and use it to inform a more well-rounded cultural analysis of your own adaptation.
-Rhetorical Significance (200-300 words)
+ 
 Images 8
 ## Reflection 
 In conclusion, applications for holograms have been limited by cumbersome techniques, high computation requirements, and poor image quality. Improving current techniques could lead to a wide variety of applications, includinasg 3D cinema viewing without the need for glasses, watching holographic videos on television and smart phone screens. The "Digital Botany" project was designed for the purpose of my current major in Digital Technology and Cultures buat is also relevant in today's society. In the future, every object will be smart.
