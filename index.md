@@ -9,7 +9,7 @@ As a blacked-thumbed botanical artist whose focus is on indoor botanical and pra
 ## Why Digital Botany 
 When most of us are decorating our home or business, many of us take a few cues from hospitality professionals such as those who work in hotels, and spas. All over the world, the most desirable hotels, spas and resorts incorporate plants into their design because of the natural beauty these quiet, living greenery bring to any environment. Many busy high-end home owners might opt for a pricey designer in order to create real botanical art installations, which may also require them to hire a professional gardener to care for them. Meanwhile, some people have the knack for growing the most delicate plants, seemingly with no effort while other people like myself have a collection of empty pots stacked around their house as a testament to their failed attempts at nurturing greenery. 
 
-The Collins Dictionary describes Floriography (the language of flowers) as “a means of cryptological communication through the use or arrangement of flowers’’ [4]. According to studies, flowers have an immediate impact on happiness; have a long-term positive effect on moods and set the scene for people to make more intimate connections with others [7]. A well-selected flower arrangement will be appropriate at any momentous occasion - be it a formal event, a wedding, a funeral or as a gift to a loved one. Special occasions such as weddings, anniversaries and birthday parties look dull when women are not wearing accessories on such occasions (Jessup 1950). 
+The Collins Dictionary describes Floriography (the language of flowers) as “a means of cryptological communication through the use or arrangement of flowers’’ [4]. According to studies, flowers have an immediate impact on happiness; have a long-term positive effect on moods and set the scene for people to make more intimate connections with others [7]. A well-selected flower arrangement will be appropriate at any momentous occasion - be it a formal event, a wedding, a funeral or as a gift to a loved one.  
 
 Holograms are an example of a machine interacting with our environment by adding botanical information (output perspective).  Imagine being able to incorporate augmented reality, holograms and glass technology to this perspective!  I combine these technologies into a simple matrix. Digital botany offers the opportunity for a piece of Mother Earth to the benefit of both humans and green living. The following video shows the journey some French artists who are already working on a digital botany project that allows people to feel, listen to or even touch the product during an original sensory journey.
 
@@ -34,6 +34,7 @@ Wikipedia describes the science of holography as follows: “Holography is a tec
 
 First Video (left) 1- Daisy 2.0 
 In this version the flowers are uniquely generated.
+
 Second Video (right)- Projections in the forest
 
 ![Gif2](Images/issagif2.gif)        ![Gif1](Images/issagif1.gif)
