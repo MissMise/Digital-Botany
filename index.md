@@ -27,7 +27,6 @@ According to Guy Debor, in The Society of the Spectacle, passivity was simultane
 
 
 
-![Image Description]()
 ## History of hologram and augmented reality
 (Hologram vs Augmented Technology)
   Wikipedia describes the science of holography as follows: “Holography is a technique which enables three-dimensional images (holograms) to be made. 
