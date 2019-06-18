@@ -4,21 +4,19 @@
 
 ![Image Description](Images/image1.jpg)
 
-The image you see above is a regular living room decorated with plants. Interior plants are an ideal way to create attractive and restful settings. While making us feel more comfortable and relaxed, they also make a room look more alive. For some individuals, owning real plants isn’t possible — they’re either away too much to take care of them, they have allergies or the shadows of their home or dark apartment won’t allow the plants to survive. Very few plants will survive neglect but if you love decorating your home with plants, but are too busy to look after them, then  consider digital horticulture, which is an adapted concept of botanical. 
+The image you see above is a regular living room decorated with plants. Interior plants are an ideal way to create attractive and restful settings. While making us feel more comfortable and relaxed, they also make a room look more alive. For some individuals, owning real plants isn’t possible — they’re either away too much to take care of them, they have allergies or the shadows of their home or dark apartment won’t allow the plants to survive. Very few plants will survive neglect but if you love decorating your home with plants, but are too busy to look after them, then  consider digital botany, which is an adapted concept of botanical. 
 As a blacked-thumbed botanical artist whose focus is on indoor botanical and practical designs, I went searching on how technology, like artificial plants can be involved in providing low maintenance botany that enhances our world at home and in the workplace. For my final project I will use real fresh plants as my artifact and I will further discuss how holographic techniques combined with modern augmented reality technology can incorporate plants and reinvent the botanical experience into something beautiful and practical. 
 ## Why Digital Botany 
   When most of us are decorating our home or business, many of us take a few cues from hospitality professionals such as those who work in hotels, and spas. All over the world, the most desirable hotels, spas and resorts incorporate plants into their design because of the natural beauty these quiet, living greenery bring to any environment. Many busy high-end home owners might opt for a pricey designer in order to create real botanical art installations, which may also require them to hire a professional gardener to care for them. Meanwhile, some people have the knack for growing the most delicate plants, seemingly with no effort while other people like myself have a collection of empty pots stacked around their house as a testament to their failed attempts at nurturing greenery. 
 
-The Collins Dictionary describes Floriography (the language of flowers) as “a means of cryptological communication through the use or arrangement of flowers’’ [4]. According to studies, flowers have an immediate impact on happiness; have a long-term positive effect on moods and set the scene for people to make more intimate connections with others [7]. A well-selected flower arrangement will be appropriate at any momentous occasion - be it a formal event, a wedding, a funeral or as a gift to a loved one.  
-
-Holograms are an example of a machine interacting with our environment by adding botanical information (output perspective).  Imagine being able to incorporate augmented reality, holograms and glass technology to this perspective!  I combine these technologies into a simple matrix. Digital botany offers the opportunity for a piece of Mother Earth to the benefit of both humans and green living. The following video shows the journey some French artists who are already working on a digital botany project that allows people to feel, listen to or even touch the product during an original sensory journey.
-
-According to Guy Debor, in The Society of the Spectacle, passivity was "simultaneously the means and the end of a great hidden project, a project of social control. On the terms of its particular form of hegemony the spectacle naturally produced by spectators, not actors: modern men and women, citizens of the most advanced societies on earth, who were thrilled to watch whatever it was they were given to watch" (The Society of the Spectacle, p. 99). Based on this statement should we find the theory of spectacle in many forms available to watch. In the following paragraphs, I will provide a brief description of holographic, augmented reality, virtual reality along with a few examples of how glass technology works. These are good example that support Guy Debord's argument of "The Society of Spectacle" as it offers modern and succesful elements that are given in to our current society to watch. 
+The Collins Dictionary describes Floriography (the language of flowers) as “a means of cryptological communication through the use or arrangement of flowers’’ [1]. According to studies, flowers have an immediate impact on happiness; have a long-term positive effect on moods and set the scene for people to make more intimate connections with others [3]. Any well-selected flower arrangement will be appropriate at any momentous occasion - be it at home, for a formal event, a wedding, a funeral or as a gift to a loved one.  
 
 
+According to Guy Debor, in The Society of the Spectacle, passivity was "simultaneously the means and the end of a great hidden project, a project of social control. On the terms of its particular form of hegemony the spectacle naturally produced by spectators, not actors: modern men and women, citizens of the most advanced societies on earth, who were thrilled to watch whatever it was they were given to watch" (The Society of the Spectacle, p. 99). Based on this statement should we find the theory of spectacle in many forms available to watch. In the following paragraphs, I will provide a brief description of holographic, augmented reality, virtual reality along with a few examples of how glass technology works. These are good example that support Guy Debord's argument of "The Society of Spectacle" as it offers modern and succesful elements that are given in to our current society to watch.
 
+Holograms are an example of a machine interacting with our environment by adding botanical information (output perspective).  Imagine being able to incorporate augmented reality, holograms and glass technology to this perspective. Digital botany offers the opportunity to enjoy a piece of Mother Earth to the benefit of both humans and green living. The following video shows the journey some French artists who are already working on a digital botany project that allows people to feel, listen to or even touch the product during an original sensory journey.
 
-
+ 
 
 
 
@@ -27,7 +25,12 @@ According to Guy Debor, in The Society of the Spectacle, passivity was "simultan
 
 
 
-## History of hologram and augmented reality
+
+
+
+
+
+## Hologram and aAgmented Reality
 (Hologram vs Augmented Technology)
   Wikipedia describes the science of holography as follows: “Holography is a technique which enables three-dimensional images (holograms) to be made. 
 
@@ -43,7 +46,7 @@ See full video “Daisy 2.0” here: https://vimeo.com/3870152?cjevent=4db2704c8
 See full video “Projections in the forest” here:
 https://vimeo.com/115082758
 
-## Holographic reality
+## Holographic Reality History
   The principle of holography was discovered by famous theorist Dennis Gabor in 1948. A hologram is a 3D image recorded on a two-dimensional photographic film allowing a 360° capture of the object. It is therefore a recording process for rendering a 2D image in 3D (See image 1). When we photograph an object in a conventional way, we record on a sensitive plate the brightness of the various points of the object. In other words, only the intensity of the light reflected by the object in question is taken into account. The hologram is, for its part, the result of the interference of two laser beams, one sent on a photographic plate, the other on the object to be holographed. It is from this interference that a 3D image is printed on the photographic plate. The object to holography, illuminated by a laser beam reflects the light part which arrives on the photographic film, the other part passes through a semi-reflective mirror and is used to produce the coveted 3D image.
 
 Image 1                                                            
@@ -74,7 +77,7 @@ Augmented reality has already become a popular technology for the NBA and its te
 
 ## Glass technology
   The future of how you interact with computers depends on a technology that's more than 3,000 years old. It's a technology you already use every day, on your smartphone, your TV, in your home, your car and most likely at work. It's even in the wires that bring you Internet service at near-light speed. 
-Is about transparent, holographic waveguide displays, glass technology that makes the images appear as if they're in the real world, so there's less distraction to look away. This is a technology that not only can be used in the care to display a GPS but   that could be used on any window at home See image 4)
+Is about transparent, holographic waveguide displays, glass technology that makes the images appear as if they're in the real world, so there's less distraction to look away. This is a technology that not only can be used in the care to display a GPS but that could be used on any window at home See image 4)
 
 Image 4. 
 
@@ -106,7 +109,8 @@ Before Adaptation (Fresh Plants)
 
 ![img1](Images/image1.jpg)
 
-After Adaptation (Fresh Plants)
+After Adaptation (Digital Plants)
+I combined several technologies into a simple matrix.
 
 ![img8](Images/image8.jpg)
 
@@ -180,11 +184,11 @@ Not necessarily because everything will be made of "smart matter," with chips, m
 Augmented reality is an ongoing project in the technology industry. I certainly wish there were more resources available online for me to properly share my vision of the future of digital botany with my audience. Finally, there will be soon much more opportunities for growth and new value creation that are going to move beyond what they've done in the past. As we grow further into this modern era, I am persuaded that we will soon explore features that will be more in tune and accessible to the many fields related to botany.
 
 ## Work Cited 
-[4]	 “Definition of Floriography | New Word Suggestion | Collins Dictionary.” Accessed February 12, 2019.https://www.collinsdictionary.com/us/submission/11342/Floriography.
+[1]	 “Definition of Floriography | New Word Suggestion | Collins Dictionary.” Accessed February 12, 2019.https://www.collinsdictionary.com/us/submission/11342/Floriography.
 
-[6] 	Jessup, Ronald Frederick. 1950. Anglo-Saxon Jeweler. London: Faber and Faber.
+[2] 	Jessup, Ronald Frederick. 1950. Anglo-Saxon Jeweler. London: Faber and Faber.
 
-[7]	 “6 Reasons Why Floral Designers Are Awesome!” Flowerweb. Accessed February 12, 2019.https://www.flowerweb.com/en/article/195685/6%2520Reasons%2520Why%2520Floral%2520Designers%2520are%2520Awesome%2521
+[3]	 “6 Reasons Why Floral Designers Are Awesome!” Flowerweb. Accessed February 12, 2019.https://www.flowerweb.com/en/article/195685/6%2520Reasons%2520Why%2520Floral%2520Designers%2520are%2520Awesome%2521
 [8]	https://www.instagram.com/parseerror/
 [9] “The Role of Emotions in Online Consumer Behavior: A Comparison of Search, Experience, and Credence Services | Request PDF.” ResearchGate. Accessed March 20, 2019. http://dx.doi.org/10.1108/08876041211266503.
 
