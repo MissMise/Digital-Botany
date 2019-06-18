@@ -59,6 +59,7 @@ Future of Glass Video. see full video here: https://www.youtube.com/watch?v=jZkH
 Image 3                                                                                   
 ![img5](Images/image5.png) 
 
+
 ![img6](Images/image6.jpg)
 
 ## Augmented Reality
@@ -137,7 +138,7 @@ Read more at https://www.business2community.com/marketing/rhetoric-storytelling-
 
  If used for the purpose of marmy hologram I might consider the grid of my image, the layout, hierarchy, or even the typeface. Go back through your Slack posts and select the formal aspects of the image that you deem to be most important. I would select at least 2-3 formal qualities. It might be helpful to compare and contrast your adaptation to the original.
 
-## Cultural Meaning (200-300 words)
+## Cultural Meaning 
 Just as with plastic plants, holographic botany would  look good and cost less to take care of. They require no fertilizers to grow and need little maintenance. As they are resistant to pests, you don't have to use pesticides and insecticides. These are just some of the benefits and advantages of owning faux plants rather than natural ones. According to theorist Guy Debord, holorgraphic plants are another form of detournement just as plastic plants. The most frequently cited— and partial—definition of detournement given by Guy Debord, the leader of the Situationist International. (Debord 1959, p55) stated generally that detournement entails “the reuse of preexisting artistic elements in a new ensemble” .
 
  
@@ -146,7 +147,7 @@ Roland Barthes (1977) writes that images do and don’t have a relationship to l
 In this section, I’m going to investigate the cultural implications of my adaptation. You might want to select a particular theorist that helps you interpret your own artifact and/or process (e.g. Foucault, Barthes, Bourdieu, Stuart Hall, De Certeau, or someone else). It’s really important that you engage with key words for the text/author you choose, define that term, and use it to inform a more well-rounded cultural analysis of your own adaptation.
 Rhetorical Significance (200-300 words)
 Images 8
-## Reflection (150-250 words)
+## Reflection 
 In conclusion, applications for holograms have been limited by cumbersome techniques, high computation requirements, and poor image quality. Improving current techniques could lead to a wide variety of applications, including 3D cinema viewing without the need for glasses, watching holographic videos on television and smart phone screens.
 
 
