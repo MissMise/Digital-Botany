@@ -148,9 +148,18 @@ Read more at https://www.business2community.com/marketing/rhetoric-storytelling-
 Plants provides us with a wealth of cultural associations such as Christmas and other holidays.  These traditions include evergreen plants that have been used to decorate homes, probably since the earliest pagan Yuletide festivals, such as: Christmas trees (various conifers); European ivy, (Hedera helix); holly (Ilex aquifolium); and mistletoe (Viscum album).  However such traditions evolve and adapt to local needs and availability of plants.  For example in North and South America other genera of conifers not found in europe, such as Pseudotsuga and  Araucaria, may be used as Christmas trees***.  Likewise the absence of European mistletoe in North America means that people have adopted native mistletoes in the related genus Phoradendron for decorating and snogging traditions. 
 
 
-![Img12](images/image12.jpg)
+![Img12](Images/Image12.jpg)
 
-The final example from the Plantae is the poinsettia (Euphorbia pulcherrima) which I’ve pictured above.  In many ways this is an unusual plant to have such a strong cultural association with Christmas: it’s a mildly toxic species of spurge from tropical Mexico that was introduced to North America in the 19th century, then subsequently to Europe.  However its festive connotations date back to the earliest period of Spanish colonisation in the 16th century, so it’s older than some of the other Christmasy traditions I’ve discussed.
+
+
+
+
+
+
+
+
+
+The final example from a plant that have cultural connection is the poinsettia (Euphorbia pulcherrima) which I’ve pictured above.  In many ways this is an unusual plant to have such a strong cultural association with Christmas: it’s a mildly toxic species of spurge from tropical Mexico that was introduced to North America in the 19th century, then subsequently to Europe.  However its festive connotations date back to the earliest period of Spanish colonisation in the 16th century, so it’s older than some of the other Christmasy traditions I’ve discussed.
  
 I would aslo add that plants have a long dated history on how we communicate in our society. Roland Barthes (1977) writes that images do and don’t have a relationship to linguistic texts; imagery is a language, but it doesn’t work like linguistic language. I argue that in the case of plants that there’s a relationship between imagery and linguistic language. The Collins Dictionary describes Floriography (the language of flowers) as “a means of cryptological communication through the use or arrangement of flowers’’ [4]. According to studies, flowers have an immediate impact on happiness; have a long-term positive effect on moods and allow people to make connections that are more intimate [7]Floriography may not be as prevalent in society today as it used to be in the victorian era but still is used to communicate messages of emotions along with a certain wanted ambiance in someone’s home.
  
