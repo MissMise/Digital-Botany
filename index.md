@@ -87,15 +87,13 @@ Image 4.
 
 The Digital Botany Adaptation
 Before Adaptation (Fresh Plants)
-Before Adaptation
 
 ![img1](Images/image1.jpg)
 
-After Adaptation
+After Adaptation (Fresh Plants)
 
 ![img8](Images/image8.jpg)
 
-Formal Qualities (200-300 words)
 
 
 
@@ -118,9 +116,12 @@ In contrast the use of holographic in advance technology for the purpose of mark
 
 
 
-Image 5                                                     Image 6
+Image 5                                                     
 
-![img10](Images/image10.png) ![img11](Images/image11.jpg)
+![img10](Images/image10.png) 
+Image 6
+
+![img11](Images/image11.jpg)
 
 ## Rhetorical Significance
 One of the oldest (and most important) theories about persuasion was formulated by the ancient Greek philosopher Aristotle, who lived and worked from 384 to 322 BC. 
