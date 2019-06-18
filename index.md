@@ -7,7 +7,7 @@
 The image you see above is a regular living room decorated with plants. Interior plants are an ideal way to create attractive and restful settings. While making us feel more comfortable and relaxed, they also make a room look more alive. For some individuals, owning real plants isn’t possible — they’re either away too much to take care of them, they have allergies or the shadows of their home or dark apartment won’t allow the plants to survive. Very few plants will survive neglect but if you love decorating your home with plants, but are too busy to look after them, then  consider digital horticulture, which is an adapted concept of botanical. 
 As a blacked-thumbed botanical artist whose focus is on indoor botanical and practical designs, I went searching on how technology, like artificial plants can be involved in providing low maintenance botany that enhances our world at home and in the workplace. For my final project I will use real fresh plants as my artifact and I will further discuss how holographic techniques combined with modern augmented reality technology can incorporate plants and reinvent the botanical experience into something beautiful and practical. 
 ## Why Digital Botany 
-When most of us are decorating our home or business, many of us take a few cues from hospitality professionals such as those who work in hotels, and spas. All over the world, the most desirable hotels, spas and resorts incorporate plants into their design because of the natural beauty these quiet, living greenery bring to any environment. Many busy high-end home owners might opt for a pricey designer in order to create real botanical art installations, which may also require them to hire a professional gardener to care for them. Meanwhile, some people have the knack for growing the most delicate plants, seemingly with no effort while other people like myself have a collection of empty pots stacked around their house as a testament to their failed attempts at nurturing greenery. 
+  When most of us are decorating our home or business, many of us take a few cues from hospitality professionals such as those who work in hotels, and spas. All over the world, the most desirable hotels, spas and resorts incorporate plants into their design because of the natural beauty these quiet, living greenery bring to any environment. Many busy high-end home owners might opt for a pricey designer in order to create real botanical art installations, which may also require them to hire a professional gardener to care for them. Meanwhile, some people have the knack for growing the most delicate plants, seemingly with no effort while other people like myself have a collection of empty pots stacked around their house as a testament to their failed attempts at nurturing greenery. 
 
 The Collins Dictionary describes Floriography (the language of flowers) as “a means of cryptological communication through the use or arrangement of flowers’’ [4]. According to studies, flowers have an immediate impact on happiness; have a long-term positive effect on moods and set the scene for people to make more intimate connections with others [7]. A well-selected flower arrangement will be appropriate at any momentous occasion - be it a formal event, a wedding, a funeral or as a gift to a loved one.  
 
@@ -30,7 +30,7 @@ According to Guy Debor, in The Society of the Spectacle, passivity was simultane
 ![Image Description]()
 ## History of hologram and augmented reality
 (Hologram vs Augmented Technology)
-Wikipedia describes the science of holography as follows: “Holography is a technique which enables three-dimensional images (holograms) to be made. 
+  Wikipedia describes the science of holography as follows: “Holography is a technique which enables three-dimensional images (holograms) to be made. 
 
 First Video (left)- Daisy 2.0 
 In this version the flowers are uniquely generated.
@@ -45,35 +45,33 @@ See full video “Projections in the forest” here:
 https://vimeo.com/115082758
 
 ## Holographic reality
-The principle of holography was discovered by famous theorist Dennis Gabor in 1948. A hologram is a 3D image recorded on a two-dimensional photographic film allowing a 360° capture of the object. It is therefore a recording process for rendering a 2D image in 3D (See image 1). When we photograph an object in a conventional way, we record on a sensitive plate the brightness of the various points of the object. In other words, only the intensity of the light reflected by the object in question is taken into account. The hologram is, for its part, the result of the interference of two laser beams, one sent on a photographic plate, the other on the object to be holographed. It is from this interference that a 3D image is printed on the photographic plate. The object to holography, illuminated by a laser beam reflects the light part which arrives on the photographic film, the other part passes through a semi-reflective mirror and is used to produce the coveted 3D image.
+  The principle of holography was discovered by famous theorist Dennis Gabor in 1948. A hologram is a 3D image recorded on a two-dimensional photographic film allowing a 360° capture of the object. It is therefore a recording process for rendering a 2D image in 3D (See image 1). When we photograph an object in a conventional way, we record on a sensitive plate the brightness of the various points of the object. In other words, only the intensity of the light reflected by the object in question is taken into account. The hologram is, for its part, the result of the interference of two laser beams, one sent on a photographic plate, the other on the object to be holographed. It is from this interference that a 3D image is printed on the photographic plate. The object to holography, illuminated by a laser beam reflects the light part which arrives on the photographic film, the other part passes through a semi-reflective mirror and is used to produce the coveted 3D image.
 
 Image 1                                                            
 ![img4](Images/image4.png)
 
-Furthermore, some holograms that are currently on the market can be programed to change when touched. Touches are registered using a camera positioned underneath the hologram, and the information is subsequently relayed back to a computer which changes the holographic image.
+  Furthermore, some holograms that are currently on the market can be programed to change when touched. Touches are registered using a camera positioned underneath the hologram, and the information is subsequently relayed back to a computer which changes the holographic image.
 You can see some of the incredible applications of this technology [here](https://www.youtube.com/watch?v=AoWi10YVmfE&feature=youtu.be):
 
 Applications for holograms have been limited by cumbersome techniques, high computation requirements, and poor image quality. Glass technology as shown in the following video could lead to a wide variety of applications, including viewing 3D plants without the need for glasses. Glass technology techniques just like the contemporary holographic techniques also find their niche in home design and commercial sales and marketingwatching holographic videos on television and smart phone screens (See images 3 & 4). As described by famous 
-Future of Glass Video
+Future of Glass Video. see full video here: https://www.youtube.com/watch?v=jZkHpNnXLB0
 
-Image 3                                                                                   https://www.youtube.com/watch?v=jZkHpNnXLB0
+Image 3                                                                                   
 ![img5](Images/image5.png) ![img6](Images/image6.jpg)
 
 ## Augmented Reality
-Holograms can create realistic 3D images and place photos in your surroundings. It is also known as Augmented Reality - it is nothing but augmenting something into your own reality.
-
-## Virtual Reality
-As opposed to Augmented Reality, users of virtual reality no longer perceive their real environment. Virtual reality makes it possible to experience simple things such as 360-degree images, 360-degree videos – which everyone can also produce themselves – and complex applications such as virtual reality games or special virtual reality applications, e.g. for the automotive industry, medical technology, the tourism sector, or even innovative systems such as VR configurators.
-
-
-
+  Holograms can create realistic 3D images and place photos in your surroundings. It is also known as Augmented Reality - it is nothing but augmenting something into your own reality.
 Moreover, the company Snap has found a new niche in its Snapchat augmented reality offerings for brands by merging traditional and digital advertising tactics in an immersive experience.by merging traditional and digital advertising tactics in an immersive experience. The company recently demonstrated how brands could leverage the approach with an AR billboard
 Augmented reality has already become a popular technology for the NBA and its teams. Thinking of how that combined with other technologies be applied. That’s next level exciting.
 
 ![gif3](Images/issagif3.gif) ![gif4](Images/issagif4.gif)
 
+## Virtual Reality
+  As opposed to Augmented Reality, users of virtual reality no longer perceive their real environment. Virtual reality makes it possible to experience simple things such as 360-degree images, 360-degree videos – which everyone can also produce themselves – and complex applications such as virtual reality games or special virtual reality applications, e.g. for the automotive industry, medical technology, the tourism sector, or even innovative systems such as VR configurators.
+
+
 ## Glass technology
-The future of how you interact with computers depends on a technology that's more than 3,000 years old. It's a technology you already use every day, on your smartphone, your TV, in your home, your car and most likely at work. It's even in the wires that bring you Internet service at near-light speed. 
+  The future of how you interact with computers depends on a technology that's more than 3,000 years old. It's a technology you already use every day, on your smartphone, your TV, in your home, your car and most likely at work. It's even in the wires that bring you Internet service at near-light speed. 
 Is about transparent, holographic waveguide displays, glass technology that makes the images appear as if they're in the real world, so there's less distraction to look away. This is a technology that not only can be used in the care to display a GPS but   that could be used on any window at home See image 4)
 
 Image 4. 
