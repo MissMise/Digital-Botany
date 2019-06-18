@@ -30,7 +30,7 @@ Holograms are an example of a machine interacting with our environment by adding
 
 
 
-## Hologram and aAgmented Reality
+## Hologram and Augmented Reality
 (Hologram vs Augmented Technology)
   Wikipedia describes the science of holography as follows: “Holography is a technique which enables three-dimensional images (holograms) to be made. 
 
