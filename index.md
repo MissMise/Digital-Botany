@@ -148,7 +148,7 @@ Read more at https://www.business2community.com/marketing/rhetoric-storytelling-
 Plants provides us with a wealth of cultural associations such as Christmas and other holidays.  These traditions include evergreen plants that have been used to decorate homes, probably since the earliest pagan Yuletide festivals, such as: Christmas trees (various conifers); European ivy, (Hedera helix); holly (Ilex aquifolium); and mistletoe (Viscum album).  However such traditions evolve and adapt to local needs and availability of plants.  For example in North and South America other genera of conifers not found in europe, such as Pseudotsuga and  Araucaria, may be used as Christmas trees***.  Likewise the absence of European mistletoe in North America means that people have adopted native mistletoes in the related genus Phoradendron for decorating and snogging traditions. 
 
 
-![img12](images/12.jpg)
+![Img12](images/image12.jpg)
 
 The final example from the Plantae is the poinsettia (Euphorbia pulcherrima) which I’ve pictured above.  In many ways this is an unusual plant to have such a strong cultural association with Christmas: it’s a mildly toxic species of spurge from tropical Mexico that was introduced to North America in the 19th century, then subsequently to Europe.  However its festive connotations date back to the earliest period of Spanish colonisation in the 16th century, so it’s older than some of the other Christmasy traditions I’ve discussed.
  
